@@ -1,5 +1,4 @@
 import BadgeList from "@/components/BadgeList";
-import Card from "@/components/Card";
 import Main from "@/components/Main";
 import Searchbar from "@/components/Searchbar";
 
